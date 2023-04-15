@@ -98,6 +98,7 @@ img{
 }
 .logo_nombre{
     font-weight: normal;
+    margin-bottom: 3rem;
 }
 .logo_bold{
     font-weight: bold;
