@@ -164,9 +164,18 @@ img{
     border-bottom: 1px solid var(--gris);
     margin-bottom: 2rem;
 }
+.widget-curso:last-of-type{
+    border: none;
+    margin-bottom: 0;
+}
 .widget-curso_label{
-
+    font-family: var(--fuenteHeading);
+    font-weight: bold;
 }
 .widget-curso_inf{
-
+    font-weight: normal;
+}
+.widget-curso_label,
+.widget-curso_inf{
+    font-size: 2rem;
 }
